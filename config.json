@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaserrocess",
+        "uuid": 9976447,
+        "checksum": "hycxqk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
